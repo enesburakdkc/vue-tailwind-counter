@@ -8,5 +8,5 @@ export default defineConfig({
     vue(),
     tailwindcss(),
   ],
-  base: '/vue-tailwind-counter/',
+  base: '/vue-tailwind-counter/dist/',
 })
