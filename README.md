@@ -1,5 +1,9 @@
-# Vue 3 + Vite
+<h1>Counter project coded with Vue and Tailwind</h1>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<p>A counter project coded with Vue and Tailwind.</p>
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+<p>This project is live at: <a href="https://enesburakdikici.com/vue-tailwind-counter/">https://enesburakdikici.com/vue-tailwind-counter/</a></p>
+
+<h2>Screenshots</h2>
+
+<img width="303" alt="Ekran Resmi 2025-01-29 02 01 45" src="https://github.com/user-attachments/assets/fe4305fa-2625-4d6f-894d-e1afc23ed8f7" />
